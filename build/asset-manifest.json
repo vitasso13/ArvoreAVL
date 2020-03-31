@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ArvoreAVL/static/css/main.8afadd0c.chunk.css",
+    "main.js": "/ArvoreAVL/static/js/main.dadfc568.chunk.js",
+    "main.js.map": "/ArvoreAVL/static/js/main.dadfc568.chunk.js.map",
+    "runtime-main.js": "/ArvoreAVL/static/js/runtime-main.73d6e658.js",
+    "runtime-main.js.map": "/ArvoreAVL/static/js/runtime-main.73d6e658.js.map",
+    "static/js/2.42d6e8f6.chunk.js": "/ArvoreAVL/static/js/2.42d6e8f6.chunk.js",
+    "static/js/2.42d6e8f6.chunk.js.map": "/ArvoreAVL/static/js/2.42d6e8f6.chunk.js.map",
+    "index.html": "/ArvoreAVL/index.html",
+    "precache-manifest.71d375058221884661a5dcea80f15211.js": "/ArvoreAVL/precache-manifest.71d375058221884661a5dcea80f15211.js",
+    "service-worker.js": "/ArvoreAVL/service-worker.js",
+    "static/css/main.8afadd0c.chunk.css.map": "/ArvoreAVL/static/css/main.8afadd0c.chunk.css.map",
+    "static/js/2.42d6e8f6.chunk.js.LICENSE": "/ArvoreAVL/static/js/2.42d6e8f6.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73d6e658.js",
+    "static/js/2.42d6e8f6.chunk.js",
+    "static/css/main.8afadd0c.chunk.css",
+    "static/js/main.dadfc568.chunk.js"
+  ]
+}

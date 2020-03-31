@@ -2,7 +2,7 @@
   "name": "Arvore_de_Busca_Binaria_AVL",
   "version": "1.0.0",
   "private": true,
-  "homepage": "facebook.com/vitasso13",
+  "homepage": "http://vitasso13.github.io/ArvoreAVL",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
